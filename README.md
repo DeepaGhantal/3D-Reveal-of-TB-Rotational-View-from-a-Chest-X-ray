@@ -20,7 +20,6 @@ This is a Streamlit-based web application that allows users to upload a **chest 
 3. Convert the thresholded binary mask into a height map.
 4. Visualize the height map as a 3D surface using `plotly.graph_objects`.
 
-> This is a **simulation** and not a medical diagnostic tool.
 
 ## Dependencies
 
